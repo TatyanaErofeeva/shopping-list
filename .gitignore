@@ -1,0 +1,10 @@
+.venv/
+venv/
+.bootstrap/
+.env
+__pycache__/
+.pytest_cache/
+.tools/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
